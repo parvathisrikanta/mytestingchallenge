@@ -1,0 +1,1 @@
+I have written my code in Selenium and there are not many requirements to run the code out of the box except for changing the driver location of chromedriver. My location was (C:/PARVATHI/chromedriver.exe).
